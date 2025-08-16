@@ -4,16 +4,18 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Arthur Emmanuel Oliveira
+Matricula: 900544
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print de Inspeção do Navegador](images/screenshotTelaDeInspecao.png)
 
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
+![Print de Inspeção do Navegador](images/screenshotHelloWord.png)
 
 
 ## Orientações sobre Linguagem MarkDown
